@@ -1,0 +1,5 @@
+Primeira ida: Ligue o primeiro interruptor e deixe-o ligado. Ligue o segundo interruptor, espere alguns minutos e desligue-o.
+Segunda ida: Entre na sala das lâmpadas.
+Lâmpada quente: O interruptor ligado na primeira ida controla essa lâmpada.
+Lâmpada fria: O interruptor que foi ligado e desligado na primeira ida controla essa lâmpada.
+Lâmpada apagada: O interruptor que não foi tocado controla essa lâmpada.
